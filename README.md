@@ -21,10 +21,10 @@
 
 <details>
 <summary>
-    <img align="left" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/faf611405777dc6dd4f1a57fdd0b5d272ce842ea/workflows/increase.svg" alt="OPTIMUS-PRIME2001stats" wifth="40" height="30">My GitHub Stats
+    <img align="left" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/faf611405777dc6dd4f1a57fdd0b5d272ce842ea/workflows/increase.svg" alt="OPTIMUS-PRIME2001stats" width="40" height="30">My GitHub Stats
   </summary>  
-<p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenilGamer&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="kenilGamer's GitHub stats" /></a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenilGamer&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenilGamer&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="kenilGamer's GitHub stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenilGamer&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenilGamer&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenilGamer&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 <summary>

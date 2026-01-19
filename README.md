@@ -45,7 +45,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/kenilgamer/kenilgamer/output/snake.svg" alt="Snake animation" />
 
 ###
 

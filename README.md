@@ -1,93 +1,146 @@
+<!-- ==================== BANNER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:FF6B00&height=220&section=header&text=Kenil%20Sangani&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20%40%20Creativity%20Coder&descAlignY=60&descSize=18&animation=fadeIn" alt="banner"/>
 
-### Skills
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-coloreaaa36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.codepen.io/vivekinfluencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.dev.to/vivekinfluencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/vivekinfluencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/vivekinfluencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://vivekinfluencer.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vivekinfluencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vivekinfluencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vivekinfluencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<details>
-<summary>
-    <img align="left" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/faf611405777dc6dd4f1a57fdd0b5d272ce842ea/workflows/increase.svg" alt="OPTIMUS-PRIME2001stats" wifth="40" height="30">My GitHub Stats
-  </summary>  
-<p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekinfluencer&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="vivekinfluencer's GitHub stats" /></a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekinfluencer&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekinfluencer&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<summary>
-=======
-<h2 align="left">Hi 👋! My name is Kenil Sangani, and I'm a passionate developer from India.</h2>
-
----
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/u99NpCX8aE) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kenilcoder/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenil-sangani/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@kenilgamer3035) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/kenilgamer) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenilk677@gmail.com) 
-
----
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
-![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) 
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-
----
-
-## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenilGamer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KenilGamer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=650&lines=Building+SaaS+platforms+%26+revenue+systems;Next.js+%E2%9A%A1+Node.js+%E2%9A%A1+MongoDB+%E2%9A%A1+Web3;Premium+dark+UIs+with+obsessive+detail;Ship+fast.+Build+clean.+Iterate+hard." alt="typing" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=KenilGamer&label=Profile%20Views&color=FF6B00&style=flat-square" alt="views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/KenilGamer?label=Followers&style=flat-square&color=FF6B00&labelColor=0A0A0A" alt="followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-FF6B00?style=flat-square&labelColor=0A0A0A" alt="open" />
+
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kenilgamer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ==================== ABOUT ==================== -->
+## &nbsp;🧑‍💻 &nbsp;whoami
 
----
+```typescript
+const kenil: Developer = {
+  role:       "Full-Stack Developer & Founder @ Creativity Coder",
+  location:   "Gujarat, India 🇮🇳",
+  building:   ["Multi-tenant SaaS", "Lead-gen funnels", "Workflow automation"],
+  stack:      ["Next.js", "TypeScript", "Node.js", "MongoDB", "Redis"],
+  learning:   "Distributed systems & scalable architecture",
+  philosophy: "Ship fast, build clean, iterate hard.",
+  coffee:     Infinity,
+};
+```
 
+<br/>
 
-###
+<!-- ==================== CONNECT ==================== -->
+## &nbsp;🌐 &nbsp;Connect
 
----
+<p align="left">
+<a href="https://www.linkedin.com/in/kenil-sangani/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/kenilcoder/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://discord.gg/u99NpCX8aE"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://codepen.io/kenilgamer"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<a href="https://www.youtube.com/@kenilgamer3035"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="mailto:kenilk677@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 🕹️ Contribution Graph
+<br/>
+
+<!-- ==================== TECH STACK ==================== -->
+## &nbsp;🛠️ &nbsp;Tech Stack
+
+<div align="left">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=ts,js,c,html,css,python&theme=dark" alt="languages" />
+
+**Frameworks & Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,threejs&theme=dark" alt="frameworks" />
+
+**Databases & Infra**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,docker,git&theme=dark" alt="databases" />
+
+**Design & Web3**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,webpack,solidity&theme=dark" alt="tools" />
+
+</div>
+
+<br/>
+
+<!-- ==================== FEATURED ==================== -->
+## &nbsp;🚀 &nbsp;Featured Work
+
+> Selected projects from **[Creativity Coder](https://www.linkedin.com/in/kenil-sangani/)** — a digital product & revenue-systems studio.
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| **AMA Platform** | Multi-tenant SaaS ERP for agro pharmacies — GST compliance, paise-accurate money handling, WhatsApp-first UX | `Next.js 15` · `Node` · `MongoDB` · `BullMQ` |
+| **AMS Enterprise** | CRM · billing · accounting · PM SaaS with atomic deal-to-invoice pipelines & full GST engine | `TypeScript` · `Express` · `Redis` |
+| **ATS Builder 2.0** | AI-powered resume builder — multi-provider AI, background workers, Stripe billing | `Next.js` · `Cloudflare R2` · `Stripe` |
+
+<!-- Tip: swap these for your favourite public repos, or pin them on your profile. -->
+
+<br/>
+
+<!-- ==================== STATS ==================== -->
+## &nbsp;📊 &nbsp;GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KenilGamer&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=KenilGamer&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B00&text_color=FFFFFF" alt="langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenilGamer&theme=dark&hide_border=true&background=0A0A0A&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&dates=888888" alt="streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KenilGamer&theme=react-dark&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=FFFFFF&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+<br/>
+
+<!-- ==================== TROPHIES ==================== -->
+## &nbsp;🏆 &nbsp;Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KenilGamer&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</div>
+
+<br/>
+
+<!-- ==================== GRAPHS ==================== -->
+## &nbsp;🕹️ &nbsp;Contribution Games
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenilgamer/kenilgamer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenilgamer/kenilgamer/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kenilgamer/kenilgamer/output/pacman-contribution-graph.svg">
 </picture>
 
----
+</div>
 
+<br/>
+
+<!-- ==================== QUOTE ==================== -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="quote" />
+</div>
+
+<!-- ==================== FOOTER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:0A0A0A&height=120&section=footer" alt="footer"/>
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/KenilGamer">Kenil Sangani</a> — let's build something great.</sub>
+</div>

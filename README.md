@@ -106,15 +106,6 @@ const kenil: Developer = {
 
 <br/>
 
-<!-- ==================== TROPHIES ==================== -->
-## &nbsp;🏆 &nbsp;Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KenilGamer&theme=onedark&column=7&margin-w=4&margin-h=4" alt="trophies" />
-</div>
-
-<br/>
-
 <!-- ==================== SNAKE ==================== -->
 ## &nbsp;🐍 &nbsp;Watch My Code Get Eaten
 

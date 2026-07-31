@@ -110,24 +110,17 @@ const kenil: Developer = {
 ## &nbsp;🏆 &nbsp;Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KenilGamer&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KenilGamer&theme=onedark&column=7&margin-w=4&margin-h=4" alt="trophies" />
 </div>
 
 <br/>
 
-<!-- ==================== GRAPHS ==================== -->
-## &nbsp;🕹️ &nbsp;Contribution Games
+<!-- ==================== SNAKE ==================== -->
+## &nbsp;🐍 &nbsp;Watch My Code Get Eaten
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenilgamer/kenilgamer/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kenilgamer/kenilgamer/output/pacman-contribution-graph.svg">
-</picture>
+<img alt="snake animation" src="https://raw.githubusercontent.com/KenilGamer/KenilGamer/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
